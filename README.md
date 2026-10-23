@@ -17,6 +17,7 @@ This repository collects my lab submissions for the course *Data Integration* at
 | 02 | *tbd* | *follows* |
 | 03 | *tbd* | *follows* |
 
+AI tools used in the labs are documented in [AI_USAGE.md](AI_USAGE.md).
 
 ## Licence
 
