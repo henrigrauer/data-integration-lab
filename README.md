@@ -14,7 +14,7 @@ This repository collects my lab submissions for the course *Data Integration* at
 | Lab | Topic | Folder |
 |-----|-------|--------|
 | 01 | Git, GitHub & Markdown | [labs/01/](labs/01/) |
-| 02 | *tbd* | *follows* |
+| 02 | command line interface | [labs/02/](labs/02/) |
 | 03 | *tbd* | *follows* |
 
 AI tools used in the labs are documented in [AI_USAGE.md](AI_USAGE.md).
